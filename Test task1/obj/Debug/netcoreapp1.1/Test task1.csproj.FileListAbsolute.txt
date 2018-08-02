@@ -1,0 +1,10 @@
+C:\Users\Mikhail Ulyanov\source\repos\Test task1\Test task1\bin\Debug\netcoreapp1.1\Test task1.deps.json
+C:\Users\Mikhail Ulyanov\source\repos\Test task1\Test task1\bin\Debug\netcoreapp1.1\Test task1.runtimeconfig.json
+C:\Users\Mikhail Ulyanov\source\repos\Test task1\Test task1\bin\Debug\netcoreapp1.1\Test task1.runtimeconfig.dev.json
+C:\Users\Mikhail Ulyanov\source\repos\Test task1\Test task1\bin\Debug\netcoreapp1.1\Test task1.dll
+C:\Users\Mikhail Ulyanov\source\repos\Test task1\Test task1\bin\Debug\netcoreapp1.1\Test task1.pdb
+C:\Users\Mikhail Ulyanov\source\repos\Test task1\Test task1\obj\Debug\netcoreapp1.1\Test task1.csprojResolveAssemblyReference.cache
+C:\Users\Mikhail Ulyanov\source\repos\Test task1\Test task1\obj\Debug\netcoreapp1.1\Test task1.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail Ulyanov\source\repos\Test task1\Test task1\obj\Debug\netcoreapp1.1\Test task1.AssemblyInfo.cs
+C:\Users\Mikhail Ulyanov\source\repos\Test task1\Test task1\obj\Debug\netcoreapp1.1\Test task1.dll
+C:\Users\Mikhail Ulyanov\source\repos\Test task1\Test task1\obj\Debug\netcoreapp1.1\Test task1.pdb
